@@ -1,0 +1,24 @@
+{
+  "blogposts": [
+    {
+      "id": 1,
+      "title": "Api post",
+      "content": "posts content from db"
+    },
+    {
+      "title": "New created API post",
+      "content": "New content thru api",
+      "id": 2
+    },
+    {
+      "title": "Updated title of the post",
+      "content": "Latest post with navigate",
+      "id": 4
+    },
+    {
+      "title": "New post for posts list 4",
+      "content": "Content is changed accordingly",
+      "id": 5
+    }
+  ]
+}
